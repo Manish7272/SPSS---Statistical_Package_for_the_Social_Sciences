@@ -1,6 +1,9 @@
 # SPSS---Statistical_Package_for_the_Social_Sciences
 SPSS (Statistical Package for the Social Sciences) is a software package used to analyze statistical data and make data-driven decisions.
 
+# PSPP
+- PSPP is a statistical analysis tool developed to be a free, open-source alternative to SPSS (which is now developed by IBM). Although not identical, it is similar in many respects, and allows one to work with file formats common to SPSS. 
+
 <br>
 
 <h1> Data View </h1>
